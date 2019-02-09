@@ -1,0 +1,43 @@
+body {
+  font-family: Lato, sans-serif;
+  background: #12bac7;
+  color: white;
+}
+
+h1 {
+  font-size: 4vw;
+}
+
+.container {
+  margin: 0px 3em 0px 3em;
+  text-align: center;
+  font-size: 1vw;
+}
+
+footer {
+  margin: 5em auto;
+  max-width: 80%;
+  padding: 2vw;
+  font-size: 1.4vw;
+}
+
+footer span {
+  font-size: 2vw;
+}
+
+.sound {
+  text-align: center;
+  border: 5px solid #ccb03b;
+  border-radius: 20px;
+  background: #8c61a5;
+  margin: 2px;
+  display: inline-block;
+  width: 20%;
+}
+
+
+#stopButton {
+  background: black;
+  margin-top: 4vw;
+  width: 60%;
+}
